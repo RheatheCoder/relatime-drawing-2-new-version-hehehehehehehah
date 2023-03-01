@@ -38,5 +38,6 @@ function draw(){
     background('powderblue');
     fill('peachpuff');
     stroke('white');
+    strokeWeight(20);
     square(noseX, noseY, difference);
 }
